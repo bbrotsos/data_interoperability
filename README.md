@@ -20,6 +20,16 @@ Research and development workspace for testing json-ld with Metadata Vocabulary 
     <td>A property may be any feature that humans naturally use to distinguish one individual object from another. It is the human perception of a single quality of an object class in the real world.</td>
     <td>ISO</td>
   </tr>
+  <tr>
+    <td><a href="/data_elements/representation_class.md" title="Representation Class Details">Representation Class</a></td>
+    <td>The major intent of Representation class is to provide a discrete and complete set of high-level (coarse granularity) definitions for data element/value domain categorization. This is an aid to the user in terms of application of business rules.</td>
+    <td>ISO</td>
+  </tr>
+  <tr>
+    <td><a href="/data_elements/definition_text.md" title="Property Details">Definition Text</a></td>
+    <td>The definition text is a statement (commonly in a natural language) which specifies the meaning of the Designatable_Item. It may additionally record a source (7.3.2.4.2.3) for the text.</td>
+    <td>ISO</td>
+  </tr>
   
 </table>
 
