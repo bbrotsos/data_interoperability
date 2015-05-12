@@ -15,6 +15,12 @@ Research and development workspace for testing json-ld with Metadata Vocabulary 
     <td>Set of ideas, abstractions or things in the real world that are identified with explicit boundaries and meaning and whose properties and behaviour follow the same rules.</td>
     <td>ISO</td>
   </tr>
+   <tr>
+    <td><a href="/data_elements/property.md" title="Property Details">Property</a></td>
+    <td>A property may be any feature that humans naturally use to distinguish one individual object from another. It is the human perception of a single quality of an object class in the real world.</td>
+    <td>ISO</td>
+  </tr>
+  
 </table>
 
 ## sources
@@ -25,4 +31,4 @@ Validation, conversion, display, and search of tabular data on the web requires 
 Swagger™ is a project used to describe and document RESTful APIs. The Swagger specification defines a set of files required to describe such an API. These files can then be used by the Swagger-UI project to display the API and Swagger-Codegen to generate clients in various languages. Additional utilities can also take advantage of the resulting files, such as testing tools.
 
 3. <a href="http://metadata-standards.org/11179/">Metadata Registries: Registry metamodel and basic attributes, ISO 11179-3</a>
- ISO/IEC 11179 introduces and discusses fundamental ideas of data elements, value domains, data element concepts, conceptual domains, and classification schemes essential to the understanding of this set of standards and provides the context for associating the individual parts of ISO/IEC 11179.
+Introduces and discusses fundamental ideas of data elements, value domains, data element concepts, conceptual domains, and classification schemes essential to the understanding of this set of standards and provides the context for associating the individual parts of ISO/IEC 11179.
